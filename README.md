@@ -12,7 +12,7 @@
 <span><b><center>VS Code</center></b></span> 
 <img height=60px src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"> 
 </td>
-     
+
 <td align="center" width="20%">
 <span><b><center>Arduino</center></b></span> 
 <img height=60px src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"> 
@@ -65,8 +65,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Keras</center></b></span> 
-<img height=65px src="https://github.com/github/explore/blob/main/topics/keras/keras.png"> 
+<span><b><center>TensorFlow</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png"> 
 </td>
 
 <td align="center" width="20%">
