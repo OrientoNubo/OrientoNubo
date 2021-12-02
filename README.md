@@ -14,8 +14,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Arduino</center></b></span> 
-<img height=60px src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"> 
+<span><b><center>Ubuntu</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -31,8 +31,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Ubuntu</center></b></span> 
-<img height=65px src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"> 
+<span><b><center>Arduino</center></b></span> 
+<img height=60px src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"> 
 </td>
 
 <td align="center" width="20%">
