@@ -9,68 +9,68 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<span><b><center>VS Code</center></b></span> 
+<!-- <span><b><center>VS Code</center></b></span>  -->
 <img height=60px src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Ubuntu</center></b></span> 
+<!-- <span><b><center>Ubuntu</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
+<!-- <span><b><center>Docker</center></b></span>  -->
 <img height=60px src="https://github.com/github/explore/blob/main/topics/docker/docker.png"> 
 </td>
 </tr>
   
 <tr>
 <td align="center" width="20%">
-<span><b><center>CUDA</center></b></span> 
+<!-- <span><b><center>CUDA</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/cuda/cuda.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>TensorFlow</center></b></span> 
+<!-- <span><b><center>TensorFlow</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>OpenCV</center></b></span> 
+<!-- <span><b><center>OpenCV</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<!-- <span><b><center>Python</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/python/python.png"> 
 </td>
   
 <td align="center" width="20%">
-<span><b><center>cpp</center></b></span> 
+<!-- <span><b><center>cpp</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Arduino</center></b></span> 
+<!-- <span><b><center>Arduino</center></b></span>  -->
 <img height=60px src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
+<!-- <span><b><center>Flask</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/flask/flask.png"> 
 </td>
   
 <td align="center" width="20%">
-<span><b><center>HTML5</center></b></span> 
+<!-- <span><b><center>HTML5</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/html/html.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
+<!-- <span><b><center>CSS</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/css/css.png"> 
 </td>
 </tr>
