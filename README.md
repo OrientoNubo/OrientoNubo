@@ -26,11 +26,6 @@
   
 <tr>
 <td align="center" width="20%">
-<!-- <span><b><center>CUDA</center></b></span>  -->
-<img height=65px src="https://github.com/github/explore/blob/main/topics/cuda/cuda.png"> 
-</td>
-
-<td align="center" width="20%">
 <!-- <span><b><center>TensorFlow</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png"> 
 </td>
@@ -38,6 +33,11 @@
 <td align="center" width="20%">
 <!-- <span><b><center>OpenCV</center></b></span>  -->
 <img height=65px src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png"> 
+</td>
+
+<td align="center" width="20%">
+<!-- <span><b><center>CUDA</center></b></span>  -->
+<img height=65px src="https://github.com/github/explore/blob/main/topics/cuda/cuda.png"> 
 </td>
 </tr>
 
