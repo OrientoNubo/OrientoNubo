@@ -12,10 +12,9 @@
 <span><b><center>Ansible</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
 </td>
-
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Arduino</center></b></span> 
+<img height=60px src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"> 
 </td>
 
 <td align="center" width="20%">
