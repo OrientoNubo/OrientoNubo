@@ -7,11 +7,12 @@
 <br>
 <table>
 <tbody>
- <tr>
+<tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>VS Code</center></b></span> 
+<img height=60px src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"> 
 </td>
+     
 <td align="center" width="20%">
 <span><b><center>Arduino</center></b></span> 
 <img height=60px src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"> 
@@ -19,60 +20,58 @@
 
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px src="https://github.com/github/explore/blob/main/topics/docker/docker.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/flask/flask.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<span><b><center>Ubuntu</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>cpp</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>HTML5</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/html/html.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<span><b><center>CSS</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/css/css.png"> 
 </td>
-
-
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/python/python.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>CUDA</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/cuda/cuda.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<span><b><center>Keras</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/keras/keras.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<span><b><center>OpenCV</center></b></span> 
+<img height=65px src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png"> 
 </td>
 </tr>
 
