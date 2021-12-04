@@ -25,8 +25,8 @@
   
 
 <td align="center" width="16%">
-<!-- <span><b><center>TensorFlow</center></b></span>  -->
-<img height=65px src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png"> 
+<!-- <span><b><center>TensorFlow</center></b></span>  
+<img height=65px src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png"> -->
 </td>
 
 <td align="center" width="16%">
