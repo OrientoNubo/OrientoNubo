@@ -1,6 +1,6 @@
 <h1 align="left"> Hello There 👋  </h1>
 
-![](https://komarev.com/ghpvc/?username=OrientoNubo&style=flat-square) &nbsp ![](https://img.shields.io/badge/Status-Sit%20quietly%20and%20meditate-blue?style=flat-square)
+![](https://komarev.com/ghpvc/?username=OrientoNubo&style=flat-square) &nbsp;&nbsp; ![](https://img.shields.io/badge/Status-Sit%20quietly%20and%20meditate-blue?style=flat-square)
 
 ![](https://github-readme-stats.vercel.app/api?username=OrientoNubo&show_icons=true&count_private=true&hide_rank=false&hide=prs&bg_color=40,282246,5495D4&title_color=fff&text_color=fff&hide_border=true)
 
