@@ -40,7 +40,7 @@
 
 <td align="center" width="16%">
 <!-- <span><b><center>pytorch</center></b></span> -->
-<img height=65px src="./image/pytorch_logo.png">  
+<img height=65px src="./image/pytorch_icon.png">  
 </td>
 </tr>
 
