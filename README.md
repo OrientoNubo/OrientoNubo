@@ -1,6 +1,6 @@
-<h1 align="left"> Hello There 👋 </h1>
+<h1 align="left"> Hello There 👋 ![](https://komarev.com/ghpvc/?username=OrientoNubo) </h1>
 
-![](https://komarev.com/ghpvc/?username=OrientoNubo)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=OrientoNubo&show_icons=true&count_private=true&hide_rank=false&hide=prs&bg_color=40,282246,5495D4&title_color=fff&text_color=fff&hide_border=true)
 
