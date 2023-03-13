@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I am OrientoNubo   </h1>
+<h1 align="left"> Hey there</h1>
 
 ![](https://komarev.com/ghpvc/?username=OrientoNubo&style=flat-square) &nbsp;&nbsp; 
 
