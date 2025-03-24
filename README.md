@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=OrientoNubo&style=flat-square) &nbsp;&nbsp; 
 
 
-
+<div style="display:none">
 <h2>Links</h2>
 
 | Workspace | Tools | Fun Apps / Sources |
@@ -15,3 +15,4 @@
 | <a href="https://wandb.ai/orientonubo">W&B</a> | <a href="https://www.runoob.com/">RUNOOB</a> |  |
 | <a href="https://www.sketch.com/">Sketch</a> | <a href="https://framer.com/">Framer</a> |  |
 
+</div>
